@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.source": "javascript",
+        "string": "cpp",
+        "utility": "cpp",
+        "map": "cpp"
+    }
+}
